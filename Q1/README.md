@@ -1,1 +1,1 @@
-1. https://meet.google.com/dtm-ovih-mxz
+Write a JAVA program to print your name and KTU register number in two separate lines.
